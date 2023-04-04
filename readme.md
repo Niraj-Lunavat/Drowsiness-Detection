@@ -2,7 +2,7 @@
 
 ###### Made with ❤️ by [Niraj Lunavat](https://www.linkedin.com/in/nirajlunavat/)
 
-This code can detect your eyes and alert when the user is drowsy.
+ Drowsiness detection is a safety technology that can prevent accidents that are caused by drivers who fell asleep while driving.This code can detect your eyes and alert when the user is drowsy. 
 
 ## Applications 🎯
 This can be used by riders who tend to drive for a longer period of time that may lead to accidents
@@ -12,10 +12,10 @@ The example code is in Python ([version 2.7](https://www.python.org/download/rel
 
 ### Dependencies
 
-1) import cv2
-2) import imutils
-3) import dlib
-4) import scipy
+1) OpenCV
+2) Imutils
+3) Dlib
+4) Scipy
 
 
 ### Description 📌
