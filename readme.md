@@ -1,10 +1,6 @@
 # Drowsiness Detection OpenCV 😴 🚫 🚗
 
-###### Made with ❤️ by Niraj Lunavat
-
-## References 🔱
- 
- -   Adrian Rosebrock, [PyImageSearch Blog](https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/)
+###### Made with ❤️ by [Niraj Lunavat](https://www.linkedin.com/in/nirajlunavat/)
 
 This code can detect your eyes and alert when the user is drowsy.
 
@@ -25,4 +21,8 @@ The example code is in Python ([version 2.7](https://www.python.org/download/rel
 ### Description 📌
 
 A computer vision system that can automatically detect driver drowsiness in a real-time video stream and then play an alarm if the driver appears to be drowsy.
+
+## References 🔱
+ 
+ -   Adrian Rosebrock, [PyImageSearch Blog](https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/)
 
