@@ -37,7 +37,7 @@ For more information, [see this blog](https://www.pyimagesearch.com/2017/05/08/d
 
 ### Results 📊
 
-<img src="">
+<img src="https://github.com/Niraj-Lunavat/Drowsiness-Detection/blob/main/vid.gif">
 
 
 ### Execution 🐉
@@ -47,10 +47,8 @@ To run the code, type `python Drowsiness Detection.py`
 python Drowsiness Detection.py
 ```
 
-
 ## References
  
- -   Adrian Rosebrock, [PyImageSearch Blog](https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/)
+ -  Adrian Rosebrock, [PyImageSearch Blog](https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/)
  -  [Driver Drowsiness Detection System with OpenCV & Keras](https://data-flair.training/blogs/python-project-driver-drowsiness-detection-system/)
-
  - for Dataset, Checkout [Kaggle](https://www.kaggle.com/datasets/prasadvpatil/mrl-dataset)  
