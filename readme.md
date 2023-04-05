@@ -6,7 +6,7 @@
   We will be making a drowsiness detection system.Drowsiness detection is a safety technology that can prevent accidents that are caused by drivers who fell asleep while driving. A countless number of people drive on the highway day and night. Taxi drivers, bus drivers, truck drivers and people traveling long-distance suffer from lack of sleep. Due to which it becomes very dangerous to drive when feeling sleepy. The majority of accidents happen due to the drowsiness of the driver. Its computer vision system that can detect driver drowsiness in a real-time video stream and then play an alarm if the driver appears to be drowsy. This code can detect your eyes and alert when the user is drowsy. 
 
 ### Code Requirements 🦄
-The example code is in Python ([version 3.5](https://www.python.org/download/releases/3.5/) or higher will work). "You can download a trained facial shape predictor from [here](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2) "
+The example code is in Python ([version 3.5](https://www.python.org/download/releases/3.5/) or higher will work). You can download a trained facial shape predictor from [here](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2).
 
 
 ### Dependencies
