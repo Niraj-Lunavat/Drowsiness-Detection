@@ -12,7 +12,7 @@ def eye_aspect_ratio(eye):
 	return ear
 	
 thresh = 0.25
-frame_check = 20
+frame_check = 22
 detect = dlib.get_frontal_face_detector()
 predict = dlib.shape_predictor("shape_predictor_68_face_landmarks.dat") # Dat file is the crux of the code
 
