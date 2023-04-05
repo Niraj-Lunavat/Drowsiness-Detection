@@ -48,7 +48,7 @@ python Drowsiness Detection.py
 ```
 
 
-## References 🔱
+## References
  
  -   Adrian Rosebrock, [PyImageSearch Blog](https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/)
  -  [Driver Drowsiness Detection System with OpenCV & Keras](https://data-flair.training/blogs/python-project-driver-drowsiness-detection-system/)
