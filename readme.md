@@ -33,8 +33,6 @@ It checks 22 consecutive frames and if the Eye Aspect ratio is less than 0.25, A
 <img src="https://github.com/Niraj-Lunavat/Drowsiness-Detection/blob/main/eye3.jpg">
 
 
-For more information, [see this blog](https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/) and [this blog](https://data-flair.training/blogs/python-project-driver-drowsiness-detection-system/)
-
 ### Results 📊
 
 <img src="https://github.com/Niraj-Lunavat/Drowsiness-Detection/blob/main/vid.gif">
@@ -43,9 +41,9 @@ For more information, [see this blog](https://www.pyimagesearch.com/2017/05/08/d
 ### Execution 🐉
 To run the code, type `python Drowsiness Detection.py`
 
-```
-python Drowsiness Detection.py
-```
+#```
+#python Drowsiness Detection.py
+#```
 
 ## References
  
