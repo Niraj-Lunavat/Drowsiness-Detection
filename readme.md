@@ -5,7 +5,7 @@
 ### Description 📌
   We will be making a drowsiness detection system.Drowsiness detection is a safety technology that can prevent accidents that are caused by drivers who fell asleep while driving. A countless number of people drive on the highway day and night. Taxi drivers, bus drivers, truck drivers and people traveling long-distance suffer from lack of sleep. Due to which it becomes very dangerous to drive when feeling sleepy. The majority of accidents happen due to the drowsiness of the driver. Its computer vision system that can detect driver drowsiness in a real-time video stream and then play an alarm if the driver appears to be drowsy. This code can detect your eyes and alert when the user is drowsy. 
   
-#How it works
+### How it works
 
 The system analyzes the video frames to detect facial landmarks and track eye movements and blinks. Based on these features, it estimates the driver's or user's level of drowsiness and triggers an alert if it detects signs of fatigue or inattention.
 
